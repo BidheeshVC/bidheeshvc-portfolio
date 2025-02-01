@@ -1,0 +1,106 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Frontend Development",
+      "description": "Proficient in modern frontend technologies including React.js, HTML5, CSS3, and JavaScript. Experienced with UI libraries like Material-UI and Tailwind CSS."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Backend Development",
+      "description": "Strong backend development skills using Node.js, Express.js, and experience with databases including MongoDB, MySQL, and PostgreSQL."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Full Stack Development",
+      "description": "Experienced MERN Stack developer capable of building complete web applications from frontend to backend with modern technologies and best practices."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Tools & Technologies",
+      "description": "Proficient with development tools including Git, GitHub, Postman, and cloud platforms like AWS S3. Experience with REST APIs and JWT authentication."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "title": "E-Cart Application",
+      "description": "A full-stack e-commerce application with features for browsing products, cart management, and secure purchases. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.",
+      "link": "#"
+    },
+    {
+      "id": "2",
+      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "title": "Book Store CRUD",
+      "description": "A web-based book store application with complete CRUD operations. Built using React.js, Node.js, and styled with Tailwind CSS for a modern user experience.",
+      "link": "#"
+    },
+    {
+      "id": "3",
+      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "title": "Weather Application",
+      "description": "Dynamic weather forecasting web app providing real-time updates using OpenWeather API. Displays temperature, humidity, wind speed in an appealing UI using HTML, CSS, and JavaScript.",
+      "link": "#"
+    },
+    {
+      "id": "4",
+      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "title": "To-Do CRUD Application",
+      "description": "Efficient task management application with CRUD functionality built using React.js, Node.js, and Tailwind CSS for a seamless user experience.",
+      "link": "#"
+    },
+    {
+      "id": "5",
+      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "title": "BMI Calculator",
+      "description": "Interactive BMI Calculator built with HTML, CSS, and JavaScript. Helps users determine their BMI category based on weight and height inputs.",
+      "link": "#"
+    }
+  ],
+  "testimonial": [],
+  "personal_info": {
+    "name": "Bidheesh V C",
+    "title": "MERN Stack Developer",
+    "email": "bidheeshvc@gmail.com",
+    "phone": ["+91 8921171208", "+91 9526441663"],
+    "website": "bidheesh.dev",
+    "social_links": {
+      "github": "https://github.com/BidheeshVC",
+      "linkedin": "https://www.linkedin.com/in/bidheesh-v-c/"
+    },
+    "education": [
+      {
+        "degree": "Diploma in Electrical & Electronics Engineering",
+        "institution": "Maharajas Technological Institute",
+        "location": "Thrissur",
+        "period": "2017-2020",
+        "score": "CGPA: 6.83/10"
+      },
+      {
+        "degree": "Higher Secondary",
+        "institution": "Govt. HSS Mullassery",
+        "location": "Thrissur, Kerala, India",
+        "period": "2015-2017",
+        "score": "Percentage: 65"
+      }
+    ],
+    "experience": {
+      "duration": "4 years (2020-2024)",
+      "roles": [
+        {
+          "title": "CNC Machine Operator",
+          "company": "Ashok Leyland"
+        },
+        {
+          "title": "Public Relation Assistant",
+          "company": "Kerala State Electricity Board"
+        }
+      ]
+    }
+  }
+}

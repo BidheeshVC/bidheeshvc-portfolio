@@ -29,34 +29,34 @@
     {
       "id": "1",
       "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
-      "title": "E-Cart Application",
-      "description": "A full-stack e-commerce application with features for browsing products, cart management, and secure purchases. Built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.",
-      "link": "#"
+      "title": " Learnify - Social Media With LMS Features (Under development)",
+      "description": "Learnify is a full-stack social media platform integrated with powerful LMS (Learning Management System) features. It allows users to connect, share posts, follow each other, and interact just like a social network — while also providing tools for creating, managing, and taking online courses.",
+      "link": "https://github.com/BidheeshVC/Learnify-LearningApp.git"
     },
     {
       "id": "2",
-      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "src": "./img/bookstore.png",
       "title": "Book Store CRUD",
       "description": "A web-based book store application with complete CRUD operations. Built using React.js, Node.js, and styled with Tailwind CSS for a modern user experience.",
-      "link": "https://bookstore-mern-ruddy.vercel.app/"
+      "link": "https://github.com/BidheeshVC/BookstoreMERN.git"
     },
     {
       "id": "3",
-      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "src": "./img/weatherapp.png",
       "title": "Weather Application",
       "description": "Dynamic weather forecasting web app providing real-time updates using OpenWeather API. Displays temperature, humidity, wind speed in an appealing UI using HTML, CSS, and JavaScript.",
       "link": "https://weather-app-by-bidheesh.vercel.app/"
     },
     {
       "id": "4",
-      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "src": "./img/todoapp.png",
       "title": "To-Do CRUD Application",
       "description": "Efficient task management application with CRUD functionality built using React.js, Node.js, and Tailwind CSS for a seamless user experience.",
       "link": "https://todo-app-by-bidheesh.vercel.app/"
     },
     {
       "id": "5",
-      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "src": "./img/BMIcalculator.png",
       "title": "BMI Calculator",
       "description": "Interactive BMI Calculator built with HTML, CSS, and JavaScript. Helps users determine their BMI category based on weight and height inputs.",
       "link": "https://bmi-calculator-by-bidheesh-v-c.vercel.app/"

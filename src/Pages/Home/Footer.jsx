@@ -92,7 +92,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="mailto:bidheeshvc@gmail.com"
+                href="mailto:vcbidheesh@gmail.com"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

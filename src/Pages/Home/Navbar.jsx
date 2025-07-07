@@ -115,7 +115,7 @@ function Navbar() {
         </ul>
       </div>
       <a 
-        href="/resume/portfolio bidheesh.pdf"
+        href="/resume/Bidheesh V C MERN Stack Developer.pdf"
         download="Bidheesh_VC_Resume.pdf"
         className="btn btn-outline-primary"
       >

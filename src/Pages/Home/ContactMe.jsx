@@ -11,8 +11,8 @@ export default function ContactMe() {
       ),
       title: "Email",
       content: [{
-        text: "bidheeshvc@gmail.com",
-        href: "mailto:bidheeshvc@gmail.com"
+        text: "vcbidheesh@gmail.com",
+        href: "mailto:vcbidheesh@gmail.com"
       }]
     },
     {

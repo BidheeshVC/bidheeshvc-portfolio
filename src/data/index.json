@@ -38,35 +38,35 @@
       "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
       "title": "Book Store CRUD",
       "description": "A web-based book store application with complete CRUD operations. Built using React.js, Node.js, and styled with Tailwind CSS for a modern user experience.",
-      "link": "#"
+      "link": "https://bookstore-mern-ruddy.vercel.app/"
     },
     {
       "id": "3",
       "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
       "title": "Weather Application",
       "description": "Dynamic weather forecasting web app providing real-time updates using OpenWeather API. Displays temperature, humidity, wind speed in an appealing UI using HTML, CSS, and JavaScript.",
-      "link": "#"
+      "link": "https://weather-app-by-bidheesh.vercel.app/"
     },
     {
       "id": "4",
       "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
       "title": "To-Do CRUD Application",
       "description": "Efficient task management application with CRUD functionality built using React.js, Node.js, and Tailwind CSS for a seamless user experience.",
-      "link": "#"
+      "link": "https://todo-app-by-bidheesh.vercel.app/"
     },
     {
       "id": "5",
       "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
       "title": "BMI Calculator",
       "description": "Interactive BMI Calculator built with HTML, CSS, and JavaScript. Helps users determine their BMI category based on weight and height inputs.",
-      "link": "#"
+      "link": "https://bmi-calculator-by-bidheesh-v-c.vercel.app/"
     }
   ],
   "testimonial": [],
   "personal_info": {
     "name": "Bidheesh V C",
     "title": "MERN Stack Developer",
-    "email": "bidheeshvc@gmail.com",
+    "email": "vcbidheesh@gmail.com",
     "phone": ["+91 8921171208", "+91 9526441663"],
     "website": "bidheesh.dev",
     "social_links": {

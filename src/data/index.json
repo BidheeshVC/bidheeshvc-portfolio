@@ -28,7 +28,7 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "https://img.freepik.com/free-photo/upset-irritated-frustrated-businesswoman-entering-office-meeting-room-late-night-screaming-teamwork-throwing-strategy-paperwork_482257-2392.jpg?uid=R76083319&ga=GA1.1.1223741550.1736705192&semt=ais_hybrid",
+      "src": "./img/learnify.png",
       "title": " Learnify - Social Media With LMS Features (Under development)",
       "description": "Learnify is a full-stack social media platform integrated with powerful LMS (Learning Management System) features. It allows users to connect, share posts, follow each other, and interact just like a social network — while also providing tools for creating, managing, and taking online courses.",
       "link": "https://github.com/BidheeshVC/Learnify-LearningApp.git"
